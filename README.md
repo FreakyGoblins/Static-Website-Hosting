@@ -1,7 +1,7 @@
 # Static-Website-Hosting
 # Creating a static website in 5 minutes using S3 on AWS
 Steps
-1. Create a bucket on S3 named rahbuc01
+1. Create a bucket on S3 named rahulbucket01
 2. Give a unique name for the bucket since bucket name must be unique on S3
 3. Create three files, index.html, error.html, about.html
 4. Upload the files in the S3 bucket
@@ -21,7 +21,6 @@ There you go! Your website is online, you can visit it using the provided endpoi
 
 # MY STATIC WEBSITE
 
-[About](https://rahulbuc01.s3.amazonaws.com/index.html)
+[About](https://rahulbucket01.s3.amazonaws.com/index.html)
 
-![Screenshot (44)](https://github.com/FreakyGoblins/Static-Website-Hosting/assets/143277720/fd273ea2-31c5-4804-8e3d-60a69ae68ded)
-
+![Screenshot (45)](https://github.com/FreakyGoblins/Static-Website-Hosting/assets/143277720/8087ed2e-4555-44d5-bb10-2e4a41a0ff8e)
